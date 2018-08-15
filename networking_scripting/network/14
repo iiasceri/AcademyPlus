@@ -1,0 +1,5 @@
+Server:		10.51.3.2
+Address:	10.51.3.2#53
+
+Non-authoritative answer:
+81.1.51.10.in-addr.arpa	name = ldap-proxy.42.fr.
